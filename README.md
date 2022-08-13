@@ -1,6 +1,6 @@
 # FutureMakers2022
 
-The MIT FutureMakers Create-a-thon is a virtual, part-time 6-week AI learning program, developed through a collaboration between [SureStart](https://mysurestart.com/) and the [MIT RAISE](https://raise.mit.edu/) (Responsible AI for Social Empowerment and Education) Initiative 
+The MIT FutureMakers Create-a-thon is a virtual, part-time 6-week AI learning program, developed through a collaboration between [SureStart](https://mysurestart.com/) and the [MIT RAISE](https://raise.mit.edu/) (Responsible AI for Social Empowerment and Education) [Initiative](https://raise.mit.edu/) 
 
 The FutureMakers program, which started on July 6th, 2021 includes:
 
