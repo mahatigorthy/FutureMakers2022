@@ -12,4 +12,5 @@ The FutureMakers program, which started on July 6th, 2021 includes:
 
 This 6-week virtual program provided me with a unique opportunity to build AI solutions that tackle some of today’s most pressing challenges.
 
-The last two weeks were a create-a-thon for which my team developed a program to detect media bias in news articles to help alleviate political polarization and provide a more hollistic view of current events. More information on the project as well as the source code can be found here: https://github.com/mferuscomelo/ai-spy
+The last two weeks were a create-a-thon for which my team developed a program to detect media bias in news articles to help alleviate political polarization and provide a more hollistic view of current events. More information on the project as well as the source code can be found here: https://github.com/FutureMakers2022Team13/PolitiParser
+
